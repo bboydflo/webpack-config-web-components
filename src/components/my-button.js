@@ -5,7 +5,7 @@ class MyElement extends LitElement {
   render(){
     return html`
       <style>${styles}</style>
-      <button class="my-button">Custom Button</button>
+      <button class="my-button">Button</button>
     `
   }
 }
